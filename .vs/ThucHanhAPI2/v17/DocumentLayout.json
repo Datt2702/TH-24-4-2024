@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\model\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\model\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\model\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\model\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\model\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\model\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\model\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\model\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\model\\domain\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\model\\domain\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\model\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\model\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\controllers\\book_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\controllers\\book_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\thuc hanh\\lab 02\\thuchanhapi2\\thuchanhapi2\\migrations\\20240423030901_aaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0B39E-B7CB-4AC7-BDD7-4E29DAAE8F31}|ThucHanhAPI2\\ThucHanhAPI2.csproj|solutionrelative:thuchanhapi2\\migrations\\20240423030901_aaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBookRequestDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\DTO\\AddBookRequestDTO.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Model\\DTO\\AddBookRequestDTO.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\DTO\\AddBookRequestDTO.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Model\\DTO\\AddBookRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:37:12.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Model\\DTO\\BookDTO.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Model\\DTO\\BookDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:22:29.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Author.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Model\\Domain\\Author.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Author.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Model\\Domain\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:30:01.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Publisher.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Model\\Domain\\Publisher.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Publisher.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Model\\Domain\\Publisher.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:27:21.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:10:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Model\\Domain\\Book.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Book.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Model\\Domain\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:19:14.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\appsettings.json",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\appsettings.json",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\appsettings.json",
+              "RelativeToolTip": "ThucHanhAPI2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T02:44:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Controllers\\PublishersController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Controllers\\PublishersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:14:33.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:10:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Book_Author.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Model\\Domain\\Book_Author.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Model\\Domain\\Book_Author.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Model\\Domain\\Book_Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:36:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:40:50.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Program.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:45:24.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book_AuthorController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\Book_AuthorController.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Controllers\\Book_AuthorController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Controllers\\Book_AuthorController.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Controllers\\Book_AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:12:29.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240423030901_aaaaa.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Migrations\\20240423030901_aaaaa.cs",
+              "RelativeDocumentMoniker": "ThucHanhAPI2\\Migrations\\20240423030901_aaaaa.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Thuc Hanh\\Lab 02\\ThucHanhAPI2\\ThucHanhAPI2\\Migrations\\20240423030901_aaaaa.cs",
+              "RelativeToolTip": "ThucHanhAPI2\\Migrations\\20240423030901_aaaaa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:09:02.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

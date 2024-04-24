@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThucHanhAPI2.props" />
+</Project>
